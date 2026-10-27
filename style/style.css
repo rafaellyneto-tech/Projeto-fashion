@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    background-color: #081a24;
+    height:45px;
+    width:900px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.etiqueta{
+    margin-left: 40px;
+}
+
+.imagem{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    
+}
+
+p{
+    color: rgb(107, 105, 105);
+    text-align: center;
+}
+
+
+.about{
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBPOGZ8rjksSVRA92yv-qXwon7RVFh_8_6oVGkIVFZZYDYjIGGxBQ99U3xYcIZkYBnOQ2Sv3cdiy0B_860S_AI97e4Y7MjSkpSIEWHknZQAJeiZJLw=w1920-h912?auditContext=forDisplay);
+    width:900px;
+    height: 200px;
+    margin: 0 auto;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: white;
+}
+
+h2{
+    color: #081a24;
+    text-align: center;
+}
+
+.mapa{
+    
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+.rodape{
+    background-color: #001018;
+    height:45px;
+    width:900px;
+    margin-right: 250px;
+    margin-left: 250px;
+
+
+}
